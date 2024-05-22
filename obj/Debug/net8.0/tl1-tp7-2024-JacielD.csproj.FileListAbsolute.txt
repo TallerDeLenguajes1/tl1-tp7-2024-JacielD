@@ -1,0 +1,14 @@
+C:\tl1-tp7-2024-JacielD\bin\Debug\net8.0\tl1-tp7-2024-JacielD.exe
+C:\tl1-tp7-2024-JacielD\bin\Debug\net8.0\tl1-tp7-2024-JacielD.deps.json
+C:\tl1-tp7-2024-JacielD\bin\Debug\net8.0\tl1-tp7-2024-JacielD.runtimeconfig.json
+C:\tl1-tp7-2024-JacielD\bin\Debug\net8.0\tl1-tp7-2024-JacielD.dll
+C:\tl1-tp7-2024-JacielD\bin\Debug\net8.0\tl1-tp7-2024-JacielD.pdb
+C:\tl1-tp7-2024-JacielD\obj\Debug\net8.0\tl1-tp7-2024-JacielD.GeneratedMSBuildEditorConfig.editorconfig
+C:\tl1-tp7-2024-JacielD\obj\Debug\net8.0\tl1-tp7-2024-JacielD.AssemblyInfoInputs.cache
+C:\tl1-tp7-2024-JacielD\obj\Debug\net8.0\tl1-tp7-2024-JacielD.AssemblyInfo.cs
+C:\tl1-tp7-2024-JacielD\obj\Debug\net8.0\tl1-tp7-2024-JacielD.csproj.CoreCompileInputs.cache
+C:\tl1-tp7-2024-JacielD\obj\Debug\net8.0\tl1-tp7-2024-JacielD.dll
+C:\tl1-tp7-2024-JacielD\obj\Debug\net8.0\refint\tl1-tp7-2024-JacielD.dll
+C:\tl1-tp7-2024-JacielD\obj\Debug\net8.0\tl1-tp7-2024-JacielD.pdb
+C:\tl1-tp7-2024-JacielD\obj\Debug\net8.0\tl1-tp7-2024-JacielD.genruntimeconfig.cache
+C:\tl1-tp7-2024-JacielD\obj\Debug\net8.0\ref\tl1-tp7-2024-JacielD.dll
