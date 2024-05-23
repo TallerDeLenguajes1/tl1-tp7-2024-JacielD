@@ -12,3 +12,4 @@ C:\tl1-tp7-2024-JacielD\obj\Debug\net8.0\refint\tl1-tp7-2024-JacielD.dll
 C:\tl1-tp7-2024-JacielD\obj\Debug\net8.0\tl1-tp7-2024-JacielD.pdb
 C:\tl1-tp7-2024-JacielD\obj\Debug\net8.0\tl1-tp7-2024-JacielD.genruntimeconfig.cache
 C:\tl1-tp7-2024-JacielD\obj\Debug\net8.0\ref\tl1-tp7-2024-JacielD.dll
+C:\tl1-tp7-2024-JacielD\obj\Debug\net8.0\tl1-tp7-2024-JacielD.sourcelink.json
